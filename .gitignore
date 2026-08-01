@@ -1,8 +1,8 @@
-.*
-!.git*
-!.ci/
-/.git/
-/build
-/Bender.local
+obj_dir/
+*.f
+*.vcd
 *.log
-*.wlf
+*.o
+*.d
+*.gch
+.bender/
